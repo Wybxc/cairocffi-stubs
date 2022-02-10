@@ -1,10 +1,11 @@
 [tool.poetry]
 name = "cairocffi-stubs"
-version = "0.1.0"
+version = "0.1.1"
 description = "Stubs for cairocffi. "
 packages = [{ include = "cairocffi-stubs" }]
 authors = ["忘忧北萱草 <wybxc@qq.com>"]
-
+readme = "README.md"
+homepage = "https://github.com/Wybxc/cairocffi-stubs"
 
 [tool.poetry.dependencies]
 python = "^3.8"
