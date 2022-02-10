@@ -17,7 +17,7 @@ import matplotlib.pyplot as plt
 
 surface = cairo.ImageSurface(cairo.FORMAT_ARGB32, 300, 200)
 context = cairo.Context(surface)
-context.show_text('Hello World! ')
+context.show_text('Hello World!')
 img = BytesIO(surface.write_to_png())  # overloaded
 plt.imshow(plt.imread(img))
 plt.show()
