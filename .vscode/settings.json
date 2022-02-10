@@ -1,0 +1,12 @@
+{
+    "python.analysis.typeCheckingMode": "strict",
+    "cSpell.words": [
+        "imread",
+        "matplotlib",
+        "Pixbuf",
+        "pycairo",
+        "pyplot",
+        "typeshed"
+    ],
+    "python.formatting.provider": "black"
+}
