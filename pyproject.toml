@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "cairocffi-stubs"
-version = "0.1.1"
+version = "0.1.2"
 description = "Stubs for cairocffi. "
 packages = [{ include = "cairocffi-stubs" }]
 authors = ["忘忧北萱草 <wybxc@qq.com>"]
